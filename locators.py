@@ -28,5 +28,5 @@ class Locators:
     SAUCES_SECTION = (By.XPATH, "//span[text()='Соусы']")  # локатор для кнопки "Соусы"
     FILLINGS_SECTION = (By.XPATH, "//span[text()='Начинки']")  # локатор для кнопки "Начинки"
     ACTIVE_SECTION_BUNS = (By.XPATH, "//div[contains(@class, 'tab_tab_type_current__2BEPc')]//span[text()='Булки']") # локатор для активного раздела булок
-    ACTIVE_SECTION_SAUCES = (By.XPATH, "//div[contains(@class, 'tab_tab__1SPyG')]//span[text()='Соусы']") # локатор для активного раздела соусов
-    ACTIVE_SECTION_FILLINGS = (By.XPATH, "//div[contains(@class, 'tab_tab__1SPyG')]//span[text()='Начинки']") # локатор для активного раздела наполнителей
+    ACTIVE_SECTION_SAUCES = (By.XPATH, "//div[contains(@class, 'tab_tab_type_current__2BEPc')]//span[text()='Соусы']") # локатор для активного раздела соусов
+    ACTIVE_SECTION_FILLINGS = (By.XPATH, "//div[contains(@class, 'tab_tab_type_current__2BEPc')]//span[text()='Начинки']") # локатор для активного раздела наполнителей
