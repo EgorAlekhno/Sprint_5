@@ -1,5 +1,5 @@
 # Sprint_5
-Автотесты для Stellar Burgers
+Автотесты для Stellar Burgers (https://stellarburgers.nomoreparties.site/)
 
 Нужно проверить
 1. Регистрация
